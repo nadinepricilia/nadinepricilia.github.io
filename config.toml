@@ -1,4 +1,4 @@
-baseurl             = "nadinepricilia.netlify.com/"   # Your domain name. Must end with "/"
+baseurl             = "https://nadinepricilia.netlify.com/"   # Your domain name. Must end with "/"
 languageCode        = "en-us"
 title               = "Nadine Pricilia"
 theme               = "introduction"
