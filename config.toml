@@ -1,4 +1,4 @@
-baseurl             = "https://nadinepricilia.netlify.com/"   # Your domain name. Must end with "/"
+baseurl             = "https://nadinepricilia.com/"   # Your domain name. Must end with "/"
 languageCode        = "en-us"
 title               = "Nadine Pricilia"
 theme               = "introduction"
@@ -9,7 +9,7 @@ canonifyurls        = true                              # Turns relative urls in
 # googleAnalytics   = "xxx"
 
 [params]
-    bloghead            = "Blog"                        # Full name shows on blog post pages
+    bloghead            = "Tulisan"                        # Full name shows on blog post pages
     firstname           = "Nadine"                # First name shows in introduction on main page
     tagline             = "Ruang karya"       # Appears after the introduction
     introheight         = "medium"                       # Input either 'medium' or 'large' or 'fullheight'
@@ -46,12 +46,12 @@ canonifyurls        = true                              # Turns relative urls in
 # Find icon names here: http://fontawesome.io/cheatsheet/
 
 [[params.social]]
-    url = "https://facebook.com/nadinepricilia"
-    icon = "facebook"
-
-[[params.social]]
     url = "https://instagram.com/nadinepricilia"
     icon = "instagram"
+
+[[params.social]]
+    url = "https://facebook.com/nadinepricilia"
+    icon = "facebook"
 
 [[params.social]]
     url = "https://www.linkedin.com/in/nadine-pricilia-5a927a88/"
