@@ -18,7 +18,7 @@
 
     {{ if .Site.Params.showLatest }}
     <h2 class="title is-2 top-pad">Tulisan Terbaru</h2>
-        {{ range first 1 (where .Data.Pages.ByPublishDate.Reverse "Section" "blog") }} 
+        {{ range first 2 (where .Data.Pages.ByPublishDate.Reverse "Section" "blog") }} 
         <div class="summary">{{ .Date.Format .Site.Params.dateForm }}
             <h3 class="title is-3 strong-post-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
                 <div class="markdown">
