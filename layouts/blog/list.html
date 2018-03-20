@@ -33,7 +33,7 @@
 
     <h2 class="title is-2 top-pad">Tulisan Lainnya</h2>
         <ul>
-        {{ range .Data.Pages.ByPublishDate }}
+        {{ range .Data.Pages.ByPublishDate.Reverse }}
             {{ if eq .Section "blog" }}
                 {{ partial "li.html" . }}
             {{ end }}
