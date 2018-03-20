@@ -1,0 +1,7 @@
++++
+date = "2016-12-10T15:03:23+00:00"
+draft = false
+title = ""
++++
+<p>If you find a beautiful personality, listen. You will be surprised by how (s)he is damaged inside with stitches by his/her own strength.
+People don't listen enough. Even the quietest person has things to say.</p>

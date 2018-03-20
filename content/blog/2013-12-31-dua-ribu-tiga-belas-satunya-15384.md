@@ -1,0 +1,7 @@
++++
+date = "2013-12-31T17:18:00+00:00"
+draft = false
+title = "Dua ribu tiga belas, satunya 153,84..."
++++
+<p>Ingatan saya buruk.</p>
+<p>Dua kali Pangandaran. Dapet uang dari dekan. Ngurus pemilu himpunan. Ngurus dinamika. Panitia pemilu KPA. Luthfie jadi ketua. Ditawarin jadi wakil ketua KPA. Ngobrol bareng malem-malem nentuin pengisi jabatan di BP. Jadi divisi terbersih. Dilantik jadi BP 41. Jadi staf kominfo HMME. Pubdok Wisuda April HMME-HMO. Ngelatih anak-anak PAS. Konser Angklung Rakyat. Jadi pengantar surat ke BMKG. Jalan-jalan obsmet ke BMKG, Lapan, plus Bosscha. Jatuh dari motor. Kulap Tegal. Pengamatan 24 jam. Masuk mobil radar. Ice skating. Trans Studio. Musyawarah ketua pagelaran. Jadi artistik. Bikin proposal pagelaran. Bendahara wisuda Juli fail. Liburan berempat ke Jakarta. Ngelatih orang-orang bule AIESEC. Tampil di bar. Konduktor penampilan yang supersepi dan kontroversial. Main perkusi di tim arumba waktu OHU. TBT. Taplok dan Pubdok diksar. Pubdok wisuda Oktober gabut. Dies HMME. Dies GM. Pagelaran Angklung ITB. Jadi mama. Kunjil BPPT. Kulap Metdin 2. Geledah lab dan ruangan dosen. Kena soda api. Kuliah yang nggak kerasa. Dibantai dosen lalu dibela teman. Kerja kelompok terus-terusan. Layung. Tepar. Cute. Jersey baru. Gagal Esplanade. Kejutan. PP Cimahi-ITB hampir dua bulan. Terpenjara di Cibubur. Perasaan-perasaan baru. Cerita menakjubkan. Rakor rakor. Agenda KPA. Milih ketua pemilu KPA. Proposal Zephyrus. Anemos. Kelimpungan karena laptop.</p>

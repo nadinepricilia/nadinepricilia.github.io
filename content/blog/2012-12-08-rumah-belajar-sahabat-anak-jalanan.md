@@ -1,0 +1,19 @@
++++
+date = "2012-12-08T17:23:00+00:00"
+draft = false
+title = "Rumah Belajar Sahabat Anak Jalanan"
++++
+<p>Sabtu itu, 1 Desember 2012. Awal hari yang baru. Aku, Chaikal, dan Kak Mia mendapat pekerjaan untuk menghampiri teman-teman kami di Rubel Sahaja. Acara alumni penerima beasiswa VDMS, dimana angklung jadi materi besarnya.</p>&#13;
+<p>Pagi-pagi kami berkumpul bertiga lalu naik angkutan kota yang sudah dipesan. Angkutan kota berisi empat set angklung dari Tangkuban Parahu, proyektor, kotak-kotak konsumsi, dan kami, ditambah tiga orang laki-laki yang ternyata alumni penerima beasiswa VDMS, tidak lupa seorang pak supir. Agak gugup karena bertemu orang-orang baru tapi di suasana kerja, dengan rundown, dengan tugas yang telah diberikan. Dipikir-pikir memang kesempatan jangan ditolak, belum tentu datang lagi. Ini akan jadi pelajaran berharga.</p>&#13;
+<p>Ternyata Rubel Sahaja ini adanya di pinggir rel kereta api Dustira. Rumah sederhana dengan banyak anak jalanan. Ada yang rambutnya dicat pirang, ada yang plontos. Ada yang masih kecil, ada yang seangkatan sepupu tertua. Ada yang bersih, ada yang penuh tato. Ada juga yang lebih muda dari saya tapi sudah beristri dan punya anak. Gugup. Seperti biasa. Tapi ternyata mereka ramah dan baik-baik. Saya bisa tetap tersenyum tenang.</p>&#13;
+<p>Melihat Chaikal melatih angklung pada mereka rasanya lelah, sulit. Tentu saja mereka berbeda dengan situasi biasanya, mahasiswa-mahasiswa sekolah tinggi ternama, yang walaupun baru masuk sudah memiliki kecerdasan di atas rata-rata. Anak-anak jalanan ini lebih plural, dan lebih bebas. Mereka tidak ada untuk selalu diatur.</p>&#13;
+<p>Akhirnya saya mendapat giliran melatih di sesi kedua angklung. Sesi lomba. Saya pikir berat karena lagunya tidak mereka kenal seperti lagu sebelumnya, Pelan-pelan Saja, lagu yang ini judulnya saja bukan bahasa persatuan, Que Sera Sera. Tapi saya mencoba tegar. Dan, hasilnya tidak seburuk itu. Mereka mengikuti dengan baik. Senang.</p>&#13;
+<p>Tanggung jawab organisasi, bisnis sekaligus pelajaran berharga. Rubel itu ada di Cimahi loh. Tempat saya besar, naik angkot dan bertemu anak-anak jalanan yang bernyanyi atau hanya menyodorkan amplop kosong. Mungkin di hari lain saya bisa kesana lagi.</p>&#13;
+<p>Ilmu yang didapat yang mungkin bisa saya bagi adalah: lihatlah lebih dekat, jangan menyimpan kepala di atas awan, nanti ketutupan. Anak jalanan hidupnya memang keras, sebagian dari mereka memang hidup berantakan, tapi sebagian lainnya berbelok kembali ke arah yang benar. Anak jalanan itu juga punya bakat dan mereka juga ingin bersenang-senang dan bahagia. Orang baik di sekitar kita itu banyak, kok, jangan terlalu berpikir negatif tentang negara ini.</p>&#13;
+<p>Terima kasih ajakannya Chaikal. Senang!</p>&#13;
+<p><img alt="image" height="320" src="http://m.ak.fbcdn.net/sphotos-a.ak/hphotos-ak-snc6/270115_10200187030984979_1040056149_n.jpg" width="180" /></p>&#13;
+<p><img alt="image" height="320" src="http://m.ak.fbcdn.net/sphotos-b.ak/hphotos-ak-ash4/399245_10200187031664996_1121068307_n.jpg" width="569" /></p>&#13;
+<p><img alt="image" height="320" src="http://m.ak.fbcdn.net/sphotos-b.ak/hphotos-ak-ash3/532599_3839436033843_1639425570_n.jpg" width="569" /></p>&#13;
+<p><img alt="image" height="320" src="http://m.ak.fbcdn.net/sphotos-c.ak/hphotos-ak-prn1/558860_3839440313950_342744459_n.jpg" width="569" /></p>&#13;
+<p><img alt="image" height="320" src="http://m.ak.fbcdn.net/sphotos-g.ak/hphotos-ak-ash3/45096_3839436433853_1400130630_n.jpg" width="180" /></p>&#13;
+<p><img alt="image" height="320" src="http://m.ak.fbcdn.net/sphotos-f.ak/hphotos-ak-ash3/155963_3839436633858_1322112594_n.jpg" width="569" /></p> 

@@ -1,0 +1,27 @@
++++
+date = "2015-07-29T15:11:32+00:00"
+draft = false
+title = ""
++++
+Why are you so strange?
+Enduring deep agony and nobody understands
+Your thoughts are buried
+Quietly
+No one asks
+
+You try to whisper hint
+But it's too soft
+It cannot even scratch
+
+You try to remain stiff
+Stiff but tender
+You don't know
+If you are sure
+Or just afraid
+You just be
+
+Stand still
+Sink in melancholy
+
+Are they even notice
+You?
