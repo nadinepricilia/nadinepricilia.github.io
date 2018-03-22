@@ -8,6 +8,9 @@ canonifyurls        = true                              # Turns relative urls in
 # disqusshortname   = "xxx"                             # Enable Disqus for comments
 # googleAnalytics   = "xxx"
 
+[blackfriday]
+	hRefTargetBlank = true
+
 [params]
     bloghead            = "Tulisan"                        # Full name shows on blog post pages
     firstname           = "Nadine"                # First name shows in introduction on main page
