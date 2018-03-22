@@ -12,13 +12,13 @@
                 <div {{ if not .Params.external_link }} id="project{{.Title | urlize}}" {{ end }} class="card">
                         <div class="card-image">
                             <figure class="image is-3by2">
-                                <a {{ if .Params.external_link }} href="{{ .Params.external_link }}" target="_blank" rel="noopener" {{ end }}>
+                                <a {{ if .Params.external_link }} href="{{ .Params.external_link }}"{{ end }}>
                                     <img src="{{ if .Params.image }}{{ .Params.image }}{{ else }}{{ .Site.Params.placeHolderimg }}{{ end }}">
                                 </a>
                             </figure>
                         </div>
                         <div class="card-content has-text-centered top-pad">
-                                <a {{ if .Params.external_link }} href="{{ .Params.external_link }}" target="_blank" rel="noopener" {{ end }}>
+                                <a {{ if .Params.external_link }} href="{{ .Params.external_link }}"{{ end }}>
                                     {{ .Title }}
                                 </a>
                         </div>
