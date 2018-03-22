@@ -1,5 +1,5 @@
 baseurl             = "https://nadinepricilia.com/"   # Your domain name. Must end with "/"
-languageCode        = "en-us"
+languageCode        = "id"
 title               = "Nadine Pricilia"
 theme               = "introduction"
 enforce_ssl         = false
@@ -11,13 +11,13 @@ canonifyurls        = true                              # Turns relative urls in
 [params]
     bloghead            = "Tulisan"                        # Full name shows on blog post pages
     firstname           = "Nadine"                # First name shows in introduction on main page
-    tagline             = "Ruang karya"       # Appears after the introduction
+    tagline             = ""       # Appears after the introduction
     introheight         = "medium"                       # Input either 'medium' or 'large' or 'fullheight'
     themestyle          = "light"                        # Choose 'light' or 'dark'
     avatar              = "img/profile.jpeg"             # Path to image in static folder eg. img/avatar.png, or comment out to remove
     email               = "nadinepricilia@gmail.com"         # Shows in contact section, or leave blank to omit
     localtime           = true                          # Show your current local time in contact section
-    timezone            = "Asia/Jakarta"         # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+    timezone            = "Europe/Amsterdam"         # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
     dateform            = "Jan 2, 2006"
     dateformfull        = "Mon Jan 2 2006 15:04:05 EST"
     cachebuster         = false                         # Add the current unix timestamp in query string for cache busting css assets (relevant in development mode)
