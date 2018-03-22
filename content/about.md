@@ -8,4 +8,4 @@ Mahasiswa _Master of Earth and Environment, Specialisation: Meteorology and Air 
 ### Aktivitas terkini
 
 * Menyelesaikan tesis mengenai disagregasi fluks scintillometer ke skala lokal.
-* Mempersiapkan magang mengenai aplikasi pembelajaran mesin (_machine learning_) dalam meningkatkan performa ensembel model.
+* Mempersiapkan magang mengenai aplikasi pembelajaran mesin (_machine learning_) dalam meningkatkan performa ensembel model prediksi cuaca konvektif.
