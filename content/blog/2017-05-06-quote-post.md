@@ -1,7 +1,7 @@
 +++
 date = "2017-05-06T06:34:01+00:00"
 draft = false
-title = "Quote post"
+title = "Of pray"
 +++
 
 

@@ -1,7 +1,7 @@
 +++
 date = "2017-03-19T21:56:39+00:00"
 draft = false
-title = "Quote post"
+title = "Of walls between us"
 +++
 
 
