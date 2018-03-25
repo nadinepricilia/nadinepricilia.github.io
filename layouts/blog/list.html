@@ -17,21 +17,21 @@
     <div class="container"><!-- Begin Blog container -->
 
     {{ if .Site.Params.showLatest }}
-    <h2 class="title is-2 top-pad">Tulisan Terbaru</h2>
-        {{ range first 2 (where .Data.Pages.ByPublishDate.Reverse "Section" "blog") }} 
+    <h2 class="title is-2 top-pad">Semua tulisan</h2>
+        {{ range first 1 (where .Data.Pages.ByPublishDate.Reverse "Section" "blog") }} 
         <div class="summary">{{ .Date.Format .Site.Params.dateForm }}
             <h3 class="title is-3 strong-post-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
                 <div class="markdown">
                 {{ .Summary }}
                 {{ if .Truncated }}
-                <a href="{{ .RelPermalink }}">...Baca Selengkapnya</a>
+                <a href="{{ .RelPermalink }}">...Baca selengkapnya</a>
                 {{ end }}
                 </div>
         </div>
         {{ end }}
     {{ end }}
 
-    <h2 class="title is-2 top-pad">Tulisan Lainnya</h2>
+    <h2 class="title is-2 top-pad">Tulisan lainnya</h2>
         <ul>
         {{ range .Data.Pages.ByPublishDate.Reverse }}
             {{ if eq .Section "blog" }}
