@@ -6,6 +6,7 @@ date: 2019-23-01T17:29:25+07:00
 Seorang istri rumah tangga yang hobi desain grafis. Latar belakang pendidikannya di bidang meteorologi membawanya merintis perusahaan konsultansi meteorologi bernama Meteonesia. Dia juga seorang pembelajar visual penyuka kucing. Dia berusaha menjadikan Islam sebagai pijakan dan kompas dalam hidupnya.
 
 Teman-teman mungkin mengenalnya di:
+
 * TK Aisiyah 4 Cimahi
 * SDN Karsawinaya Cimahi
 * SMP Negeri 1 Cimahi
