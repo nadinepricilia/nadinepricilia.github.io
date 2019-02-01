@@ -20,9 +20,9 @@ googleAnalytics   = "UA-132973964-1"
     avatar              = "img/profile.jpeg"             # Path to image in static folder eg. img/avatar.png, or comment out to remove
     email               = "nadinepricilia@gmail.com"         # Shows in contact section, or leave blank to omit
     localtime           = true                          # Show your current local time in contact section
-    timezone            = "Europe/Amsterdam"         # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-    dateform            = "Jan 2, 2006"
-    dateformfull        = "Mon Jan 2 2006 15:04:05 EST"
+    timezone            = "Asia/Jakarta"         # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+    dateform            = "2 Jan 2006"
+    dateformfull        = "Mon 2 Jan 2006 15:04:05 WIT"
     cachebuster         = false                         # Add the current unix timestamp in query string for cache busting css assets (relevant in development mode)
     description         = "Website description."        # Max 160 characters show in search results
     faviconfile         = "img/fav.ico"
@@ -57,5 +57,5 @@ googleAnalytics   = "UA-132973964-1"
     icon = "facebook"
 
 [[params.social]]
-    url = "https://www.linkedin.com/in/nadine-pricilia-5a927a88/"
+    url = "https://www.linkedin.com/in/nadinepricilia/"
     icon = "linkedin"
