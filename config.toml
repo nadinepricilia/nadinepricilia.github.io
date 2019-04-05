@@ -1,4 +1,4 @@
-baseurl             = "https://nadinepricilia.com/"   # Your domain name. Must end with "/"
+baseurl             = "https://nadinepricilia.github.io/"   # Your domain name. Must end with "/"
 languageCode        = "id"
 title               = "Nadine Pricilia"
 theme               = "introduction"
@@ -7,6 +7,7 @@ builddrafts         = false                             # Include pages with dra
 canonifyurls        = true                              # Turns relative urls into absolute urls
 # disqusshortname   = "xxx"                             # Enable Disqus for comments
 # googleAnalytics   = "UA-116303301-1"
+publishDir	    = "docs"
 
 [blackfriday]
 	hRefTargetBlank = true
